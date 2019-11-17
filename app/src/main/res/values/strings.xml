@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RUtoENpassword</string>
+    <string name="app_name">Русский пароль</string>
     <string name="help_text">Введите пароль на русском языке</string>
     <string name="clipboard_title">Пароль</string>
     <string name="message_copied">Скопировано в буфер обмена</string>
